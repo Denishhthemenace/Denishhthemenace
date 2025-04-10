@@ -62,6 +62,19 @@ Here are a few things I've been cooking recently:
 | 🔗 [Nagrik aur Samvidhan](#) | Gamified Constitution learning | `React`, `Gamification`, `MongoDB` |
 | 🔗 [Virtual Herbal Garden](#) | Explore 3D models of herbs! | `Three.js`, `React`, `Node` |
 
+
+---
+
+### 😎 Dev Life Be Like
+
+```text
+🌱 Learning        ███████████████░░░░░░ 75%
+🚀 Shipping        ██████████████░░░░░░ 70%
+🧠 Debugging       ████████████░░░░░░░░ 60%
+🔥 Brainstorming   ████████████████████ 100%
+
+```
+
 ---
 
 ### 🌐 Connect With Me
@@ -77,17 +90,6 @@ Here are a few things I've been cooking recently:
 
 </p>
 
----
-
-### 😎 Dev Life Be Like
-
-```text
-🌱 Learning        ███████████████░░░░░░ 75%
-🚀 Shipping        ██████████████░░░░░░ 70%
-🧠 Debugging       ████████████░░░░░░░░ 60%
-🔥 Brainstorming   ████████████████████ 100%
-
-```
 ---
 
 <p align="center">
