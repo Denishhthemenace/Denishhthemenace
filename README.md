@@ -1,4 +1,4 @@
-<!-- Profile README for Denishhthemenace -->
+`<!-- Profile README for Denishhthemenace -->
 
 <h1 align="center">Hey there! 👋 I'm Denish</h1>
 <h3 align="center">💻 Software Engineer | 🧠 ML Enthusiast | 🌍 Exploring the world of AI</h3>
@@ -87,7 +87,7 @@ Here are a few things I've been cooking recently:
 🧠 Debugging       ████████████░░░░░░░░ 60%
 🔥 Brainstorming   ████████████████████ 100%
 
-
+```
 ---
 
 <p align="center">
